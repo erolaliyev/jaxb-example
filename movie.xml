@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie url="https://www.imdb.com/title/tt0126029/">
+    <title>Shrek</title>
+    <year>2001</year>
+    <rating>7.8</rating>
+    <votes>587180</votes>
+    <genres>
+        <genre>animation</genre>
+        <genre>adventure</genre>
+        <genre>comedy</genre>
+    </genres>
+</movie>

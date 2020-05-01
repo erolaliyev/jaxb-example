@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legoSet number="75211">
+    <name>Imperial TIE Fighter</name>
+    <theme>StarWars</theme>
+    <year>2018</year>
+    <pieces>549</pieces>
+    <tags>
+        <tag>Starfighter</tag>
+        <tag>Stromtrooper</tag>
+        <tag>Star Wars</tag>
+        <tag>Solo</tag>
+    </tags>
+    <minifigs>
+        <minifig count="2">Imperial Mudtrooper</minifig>
+        <minifig count="1">Imperial Pilot</minifig>
+        <minifig count="1">Mimban Stormtrooper</minifig>
+    </minifigs>
+    <weight unit="kg">0.89</weight>
+    <url>https://brickset.com/sets/75211-1/Imperial-TIE-Fighter</url>
+</legoSet>
